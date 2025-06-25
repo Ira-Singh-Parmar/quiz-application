@@ -1,0 +1,11 @@
+Question,Option1,Option2,Option3,Option4,Correct_Answer
+What is the output of `print(2**3)`?,8,6,5,9,8
+Which of the following is a Python data type?,int,boolean,character,all of the above,all of the above
+What is the correct syntax to output "Hello World" in Python?,print("Hello World"),echo("Hello World"),printf("Hello World"),output("Hello World"),print("Hello World")
+Which operator is used for exponentiation in Python?,*,**,//,/ ,**
+What is the default return value of a function in Python that doesn't return anything?,None,0,False,Empty String,None
+Which of these is not a valid variable name in Python?,1variable,variable_1,variableOne,Variable1,1variable
+What does the `len()` function do in Python?,Returns the number of items in an object,Returns the type of an object,Converts an object to a string,Returns the memory address of an object,Returns the number of items in an object
+What is used to define a function in Python?,def,func,function,define,def
+What is the result of `3 + 2 * 2` in Python?,7,8,10,5,7
+Which of these is not a valid Python loop?,for,while,until,do-while,until
